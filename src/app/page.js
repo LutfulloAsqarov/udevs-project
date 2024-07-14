@@ -42,7 +42,7 @@ export default function Home() {
             <Work />
             <Contact />
             <div className="chat__img">
-                <Image width={60} height={60} src={chat} alt="chat" />
+                <Image width={40} height={40} src={chat} alt="chat" />
             </div>
         </main>
     );
