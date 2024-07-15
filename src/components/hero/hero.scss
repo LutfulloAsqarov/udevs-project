@@ -14,7 +14,7 @@
         h1 {
             font-size: 40px;
         }
-        button {
+        a {
             font-size: 22px;
             padding: 15px;
             background: #1b5bf7;
@@ -22,6 +22,7 @@
             border-radius: 10px;
             transition: 0.3s;
             width: 250px;
+            text-align: center;
             &:hover {
                 transform: scale(1.05);
             }
